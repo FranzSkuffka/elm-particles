@@ -4,7 +4,8 @@
     "repository": "https://github.com/FranzSkuffka/elm-webpack-starter-kid.git",
     "license": "MIT",
     "source-directories": [
-        "demo/elm"
+        "demo/elm",
+        "src"
     ],
     "exposed-modules": [],
     "dependencies": {
