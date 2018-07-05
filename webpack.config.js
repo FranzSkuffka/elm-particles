@@ -23,6 +23,7 @@ const elm = {
 }
 
 module.exports = {
+  entry: './demo',
   plugins: [template],
   module: { rules: [elm] }
 }
